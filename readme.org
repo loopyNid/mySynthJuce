@@ -1,0 +1,3 @@
+this is a simple synth vst project made with the JUCE framework.
+
+_to compile the location of the maximilian library has to be specified in the Exporters > debug > "header search paths"_
